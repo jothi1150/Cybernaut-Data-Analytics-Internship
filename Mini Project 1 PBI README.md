@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+Mini Project 1 Power Bi dashboard.png
 
 ## Project Overview
 
