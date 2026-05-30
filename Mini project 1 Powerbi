@@ -1,1 +1,61 @@
 
+Supermart Grocery Sales Retail Analysis
+Project Overview
+
+This project analyzes grocery retail sales data using Power BI. The dashboard helps understand sales performance, profit trends, customer orders, regional performance, and category-wise sales distribution. The goal is to provide useful business insights for better decision-making.
+
+Objectives
+Analyze total sales, profit, and orders.
+Identify top-performing regions and cities.
+Compare sales across different product categories and subcategories.
+Track monthly sales trends.
+Measure profit margins and discounts.
+Tools Used
+Power BI Desktop
+Data Cleaning and Transformation using Power Query
+Data Visualization using Charts, Cards, and Slicers
+Dataset Details
+
+The dataset contains:
+
+Order Date
+Region
+City
+Category
+Subcategory
+Sales
+Profit
+Discount
+Orders
+Dashboard Features
+KPI Cards
+Total Sales: 13.69M
+Total Profit: 3.43M
+Total Orders: 9153
+Total Discount: 2.08K
+Profit Margin: 25%
+Visualizations Used
+Total Sales by Region – Bar Chart
+Total Profit by Subcategory – Column Chart
+Total Sales by Month – Line Chart
+Total Sales by Category – Donut Chart
+Total Sales by Subcategory – Horizontal Bar Chart
+Total Orders by City – Column Chart
+Slicers
+Region Filter
+Category Filter
+Order Date Filter
+Key Insights
+West region generated the highest sales.
+North region recorded the lowest sales.
+Soft Drinks and Health Drinks contributed the highest profits.
+Sales increased significantly during October, November, and December.
+Kanyakumari recorded the highest number of orders among cities.
+Overall profit margin remained at 25%.
+Conclusion
+
+The Power BI dashboard provides a clear view of sales and profit performance across regions, categories, and cities. The insights help businesses identify profitable products, high-performing regions, and seasonal sales trends, supporting data-driven business decisions.
+
+Author
+
+Jothi
